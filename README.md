@@ -1,5 +1,7 @@
 # Анализ маркетинговых затрат для мобильной игры
 
+[просмотреть проект](https://nbviewer.jupyter.org/github/shdrn2402/Praktikum/blob/main/FoodMarket/FoodMarket.ipynb)
+
 ## Данные
 
 В наличии были следующие данные о клиентах в мобильной игре:
