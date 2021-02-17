@@ -1,6 +1,6 @@
 # Анализ маркетинговых затрат для мобильной игры
 
-[просмотреть проект](https://nbviewer.jupyter.org/github/shdrn2402/Praktikum/blob/main/FoodMarket/FoodMarket.ipynb)
+[Просмотреть проект](https://nbviewer.jupyter.org/github/Boris-1coder/Analysis-of-marketing-costs/blob/main/Analysis_of_marketing_costs.ipynb)
 
 ## Данные
 
