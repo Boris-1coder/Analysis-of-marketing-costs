@@ -8,4 +8,4 @@
 | :---------------------- | :---------------------- | :---------------------- |
 [Анализ маркетинговых затрат для мобильной игры](Analysis_of_marketing_costs) -  |||
 [Customer Retention Strategy](Customer_Retention_Strategy) - |||
-[UsersBehavior](https://github.com/shdrn2402/Praktikum/tree/main/UsersBehavior) - |||
+[Analytics Yandex.Afisha](Analytics_Yandex.Afisha) - |||
