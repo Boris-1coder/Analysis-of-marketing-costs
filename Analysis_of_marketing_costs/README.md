@@ -1,6 +1,6 @@
 # Анализ маркетинговых затрат для мобильной игры
 
-[Просмотреть проект](https://nbviewer.jupyter.org/github/Boris-1coder/Analysis-of-marketing-costs/blob/main/Analysis_of_marketing_costs.ipynb)
+[Просмотреть проект](https://nbviewer.jupyter.org/github/Boris-1coder/Yandex.Praktikum/blob/main/Analysis_of_marketing_costs/Analysis_of_marketing_costs.ipynb)
 
 ## Данные
 
