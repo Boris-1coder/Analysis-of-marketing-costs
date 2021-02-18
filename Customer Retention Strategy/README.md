@@ -1,6 +1,6 @@
 # Анализ маркетинговых затрат для мобильной игры
 
-[просмотреть проект](https://nbviewer.jupyter.org/github/Boris-1coder/Yandex.Praktikum/blob/main/Customer%20Retention%20Strategy/Customer_Retention_Strategy.ipynb)
+[Просмотреть проект](https://nbviewer.jupyter.org/github/Boris-1coder/Yandex.Praktikum/blob/main/Customer%20Retention%20Strategy/Customer_Retention_Strategy.ipynb)
 
 ## Данные
 
