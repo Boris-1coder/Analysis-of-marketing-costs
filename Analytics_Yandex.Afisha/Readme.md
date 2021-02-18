@@ -1,4 +1,4 @@
-# Анализ маркетинговых затрат для мобильной игры
+# Аналитика в Яндекс.Афише
 
 [просмотреть проект](https://nbviewer.jupyter.org/github/shdrn2402/Praktikum/blob/main/FoodMarket/FoodMarket.ipynb)
 
